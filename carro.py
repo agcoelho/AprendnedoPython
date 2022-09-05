@@ -7,4 +7,4 @@ if velo > 80:
     print('vc ultrapassou a velocidade com {}Km/h sua multa é de {} reais'.format(velo, multa))
 
 else:
-    print('parabens vc está a {}Km/h'.format(velo))
+    print('parabens vc está a {}Km/h :)'.format(velo))
